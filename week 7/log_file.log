@@ -1,0 +1,5 @@
+# Logfile created on Sat Apr 04 20:53:24 -0300 2009 by /
+D, [2009-04-04T20:53:24.473000 #3140] DEBUG -- : Numerador 10, denominador 2
+D, [2009-04-04T20:53:41.687000 #3164] DEBUG -- : Numerador 10, denominador 2
+D, [2009-04-04T20:53:41.687000 #3164] DEBUG -- : Numerador 10, denominador 0
+E, [2009-04-04T20:53:41.687000 #3164] ERROR -- : Erro na divicao ! > divided by 0
